@@ -130,3 +130,20 @@ header img{
     font-weight: 400;
     padding-top: 10px;
 }
+
+.info-block-three {
+    margin-top: 300px;
+    Height: 292.64px;
+}
+
+.info-block-three img {
+    float: right;
+    margin-right: 100px;
+}
+
+.info-block-three h1 {
+    font-size: 48px;
+    font-weight: 600;
+    padding-top: 20px;
+    margin-left: 100px;
+}
