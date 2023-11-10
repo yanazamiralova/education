@@ -177,3 +177,71 @@ header img{
     border-radius: 0;
     text-align: center;
 }
+
+.info-block-last{
+    position: relative;
+    height: 780px;
+    margin-bottom: 100px;
+}
+
+.info-block-last__content{
+    width: 550px;
+    z-index: 1;
+    float: left;
+}
+
+.info-block-last__content h1{
+    text-align: center;
+    padding-top: 63px;
+}
+
+.info-block-last__content p{
+    text-align: center;
+}
+
+.info-block-last__content button{
+    width: 273px;
+    height: 54px;
+    border-radius: 10px;
+    background: #FC8621;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    margin: 63px 138px 0;
+    border: none;
+    cursor: pointer;
+    z-index: 1;
+}
+
+.info-block{
+    margin-top: 300px;
+}
+.img{
+    position: absolute;
+    
+}
+
+.lagre_img{
+    bottom: 0;
+    right: 0;
+    z-index: 0;
+    margin-right: 200px
+}
+
+.small_img_1{
+    bottom: 151px;
+    left: 317px;
+}
+.small_img_2{
+    top: 0;
+    right: 426px;
+}
+.small_img_3{
+    left: 40px;
+    top: 401px;
+}
+.small_img_4{
+    top: 165px;
+    right: 104px;
+}
