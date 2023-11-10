@@ -11,7 +11,7 @@ header{
     background-color: #F9E0AE;
 }
 body{
-    
+
     width: 1280px; 
 }
 .main_menu  ul li{
@@ -99,3 +99,34 @@ header img{
     float: left;
 }
 
+.info-block-two {
+    margin-top: 400px;
+    height: 379px;
+}
+
+.info-block-two img {
+    width: 480px;
+    height: 379px;
+    float: left;
+    margin-left: 100px;
+}
+
+.info-block-two h1 {
+    font-size: 48px;
+    font-weight: 500;
+    float: right;
+    margin-right: 250px;
+    padding-bottom: 10px;
+}
+
+.info-block-two ul {
+    float: right;
+    margin-right: 280px;
+
+}
+
+.info-block-two li {
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 10px;
+}
