@@ -245,3 +245,42 @@ header img{
     top: 165px;
     right: 104px;
 }
+
+footer{
+    height: 442px;
+    background-color: #F9E0AE;
+    position: relative;
+}
+
+.footer-menu{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 107px;
+}
+
+.mini-title{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.uls li{
+    color: #6C6C6C;
+    font-size: 15px;
+    font-weight: 400;
+    padding: 13px 0 0 2px;
+}
+
+.uls-without-dot li{
+    list-style-type: none;
+}
+
+.bottom-text{
+    position: absolute;
+    display: inline-flex;
+    bottom: 10px;
+    text-align: center;
+    left: calc(50% - 100px);
+}
+.bottom-text img{
+    margin-right: 5px;
+}
